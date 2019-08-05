@@ -37,8 +37,8 @@
 ## JUnit Test Kullanımı ve Örnek Fonksiyon Yazma
 ## Java Web Servis Uygulama
 - Web Servislere Giriş
- - SOAP
- - REST
+    - SOAP
+    - REST
 - SOAP Web Servis bileşenleri
 - Örnek Web Servis Projesi Oluşturma
 - Projeye Operasyonlar Ekleme
