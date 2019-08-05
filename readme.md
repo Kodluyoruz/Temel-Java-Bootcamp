@@ -1,5 +1,5 @@
 # EĞİTİM DETAYI
-## Java ya temel giriş konuları
+## Java'ya temel giriş konuları
 - Eclipse Kurulumu ve konfigürasyonu
 - JAVA kodlamaya temel giriş
 - Nesne Yönelimli Programlama mantığı
