@@ -1,7 +1,7 @@
 # EĞİTİM DETAYI
 ## Java ya temel giriş konuları
-o	Eclipse Kurulumu ve konfigürasyonu
-o	JAVA kodlamaya temel giriş
+- Eclipse Kurulumu ve konfigürasyonu
+- JAVA kodlamaya temel giriş
 o	Nesne Yönelimli Programlama mantığı
 o	Sınıf yapıları ve kullanımı 
 o	Git kullanımı
